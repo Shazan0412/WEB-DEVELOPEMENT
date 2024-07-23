@@ -1,0 +1,143 @@
+Hyper Text Markup Language
+
+
+
+Basic Syntax of HTML 
+
+<!DOCTYPE html>   - HTML5 
+<html>
+   <head>
+      <title> </title>
+   </head> 
+   <body>
+
+   </body>
+
+</html>
+
+........................
+
+HEADING  <h1> </h1>     <h6> </h6>
+PARAGRAPH <p> </p>
+BOLD  <b> </b> OR <strong> </strong>
+ITALIC <i> </i> OR  <em> </em>
+UNDERLINE <u> </u> OR <ins> </ins>
+MARK <mark> </mark>
+DEL <del> </del> 
+MARQUEE
+<marquee direction="up/down/left/right" behavior="alternate/slide" scrollamount="33" > </marquee>
+
+FONT 
+<font color="red" size="+3" face="verdana"> 
+
+</font>
+
+Horizontal Rule 
+<hr />
+
+Break Row 
+<br />
+.................................................
+
+LIST 
+1. Ordered List 
+    <ol>
+        <li> </li>
+    </ol>
+2. Unordered List 
+     <ul>
+        <li> </li>
+    </ul>
+3. Nested List 
+4. Description List 
+         
+
+TABLE 
+
+<table> 
+
+</table> 
+
+
+Table Row  <tr> </tr> 
+
+Colum       <td> </td>  <th> </th>
+
+
+
+COLOUM MERGE 
+
+ROW MERGE 
+
+
+IMAGE ( jpg, jpeg,png,gif)
+
+<img src="asdsdf.jpg" />
+
+
+WEBSITE/
+    
+      pages/
+         about.html
+         <img src="../a1.jpg" />
+         <img src="../images/a2.jpg" />
+      images/
+        a2.jpg 
+a1.jpg 
+home.html
+<img src="a1.jpg" />
+<img src="images/a2.jpg" />
+
+.....................................
+
+ANCHOR  - Pages Link , Hyper Link 
+
+<a>Click here</a>
+
+AUDIO
+VIDEO 
+MAP 
+FAVICON 
+
+FORM 
+   
+
+1. Type of List 
+2. Document Type Kya Hota hai 
+3. Horizontal Rule - <hr />
+4. <font color="" size="" face=""> </font>
+5. <ul> </ul> 
+6. Table ROW and Col Merge ke liya kya use karte hain  7.  Hight ker 
+8.  Marquee  direction  
+             behavior 
+             onmouseover
+             onmouseout 
+             scrollamount 
+9. 
+www 
+http 
+https 
+ip  local ip address 127.0.0.1
+...................................
+CSS : 
+   - Type of CSS 
+   - Margin & Padding 
+   - Widht & Height 
+   - Float 
+   - Background 
+   - Shadow 
+   - Text 
+   - Font 
+   - Transition 
+   - Transform - 2d,3d              
+   - Animation 
+   - Media Screenm 
+   - Flex 
+   - Position 
+   - Pesudo Properties 
+
+   - Github 
+   - Netify 
+
+MAJOR PROJECT - TOPIC 
+     - AI + PHP
